@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Toktonazarov_Aktan_hw6</string>
+    <string name="welcome">Добро пожаловать!</string>
+    <string name="enter">Выполните вход</string>
+    <string name="reg">или зарегестрируйтесь.</string>
+    <string name="email">Введите вашу почту</string>
+    <string name="password">Введите пароль</string>
+    <string name="forget">Забыли пароль?</string>
+    <string name="log_in">Вход</string>
+    <string name="log_in2">Войти</string>
+    <string name="click_here"><a href="https://www.google.com/">Нажми сюда</a></string>
+</resources>
